@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=ZNotes
+Comment=ZNotes
+TryExec=/home/slavko/apps/nteract/nteract.sh
+Exec=/home/slavko/apps/nteract/nteract.sh -- %u
+Icon=
+Terminal=false
+StartupWMClass=NTeract
+Type=Application
+Categories=Network;
+
