@@ -14,6 +14,12 @@ pip3 install iplantuml
 
 ```
 
+zsh integration:
+```
+alias znotes='workon project_notes && cd ${ZNOTES_PATH-~/z_personal_notes} && jupyter lab'
+```
+
+Desktop integration:
 
 ```sh
 #!/bin/bash
